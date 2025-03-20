@@ -84,6 +84,6 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "ws": "^8.18.0"
+    "ws": "^8.18.1"
   }
 }
